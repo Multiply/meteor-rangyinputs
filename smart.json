@@ -1,0 +1,8 @@
+{
+    "name": "rangyinputs",
+    "description": "jquery selection range input manipulation library",
+    "homepage": "https://github.com/Multiply/meteor-rangyinputs",
+    "author": "Jens Ulrich Hjuler Pedersen <multiply@juhp.net> (http://juhp.net)",
+    "version": "0.0.1",
+    "git": "https://github.com/Multiply/meteor-rangyinputs.git"
+}
